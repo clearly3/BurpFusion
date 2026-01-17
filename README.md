@@ -11,3 +11,18 @@
 
 ### 目录探测
 
+<img width="1375" height="821" alt="image" src="https://github.com/user-attachments/assets/20468fa8-4598-4697-b3b7-1fa15b22af96" />
+
+### 辅助工具
+
+#### 地图api
+<img width="1377" height="774" alt="image" src="https://github.com/user-attachments/assets/02384125-7a92-4298-a908-f52efcbdb64d" />
+
+#### 反弹shell生成
+
+<img width="1379" height="820" alt="image" src="https://github.com/user-attachments/assets/7ce0033c-923d-48aa-bc13-56208f4c75ec" />
+
+### afrog模版生成
+<img width="1380" height="821" alt="image" src="https://github.com/user-attachments/assets/fe0eed9b-2cc2-4da5-8601-905e2d5e8649" />
+
+
