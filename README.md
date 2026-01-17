@@ -1,2 +1,3 @@
-# BurpFusion
-一款burpsuite小插件，目前集成了目录探测、地图api有效性检测、afrog模版生成等功能
+# 开发背景
+一直很喜欢用一款叫做URLserch的burpsuite插件，但是感觉bug很多，扫描也不够灵活，所以用新版的motonya-api重构了一下，减少了bug，增加了威力
+# 开发环境
